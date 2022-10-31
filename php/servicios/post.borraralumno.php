@@ -33,7 +33,3 @@ if( $hecho ){
 
 
 echo $respuesta;
-
-
-
-?>
